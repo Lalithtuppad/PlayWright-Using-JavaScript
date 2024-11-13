@@ -1,0 +1,12 @@
+{
+    "Module1TestData":{
+        "skill1":"Playwright",
+        "skill2":"cypress",
+        "skill3":"Javascript"
+    },
+    "StageTestData":{
+        "skill1":"Playwright",
+        "skill2":"cypress",
+        "skill3":"Javascript"
+    }
+}

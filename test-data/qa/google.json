@@ -1,0 +1,12 @@
+{
+    "Module1TestData":{
+        "skill1":"Playwright",
+        "skill2":"cypress",
+        "skill3":"Javascript"
+    },
+    "QaTestData":{
+        "skill1":"Api",
+        "skill2":"C programing",
+        "skill3":"Java"
+    }
+}
